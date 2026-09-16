@@ -1,6 +1,6 @@
 # 🎀 Hello Kitty 3D - The Peak of Masculinity 💪
 
-![Hello Kitty Manly Meme](watermarked_img_14949233494643955220.jpg) 
+![Hello Kitty Manly Meme](HelloKitty.jpg) 
 
 ## 💀 O projektu
 Společnost ti bude tvrdit, že ultimátní test mužnosti je zvednout nový osobák na mrtvý tah. Omyl. Skutečný alfa vývojář ví, že ten pravý hardcore flex je spojit nekompromisní backendovou sílu **ASP.NET Core MVC** s renderováním 3D modelu Hello Kitty pomocí **Three.js**. 
